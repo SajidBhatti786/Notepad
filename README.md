@@ -28,7 +28,7 @@ To run the Notepad application on your local machine, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/SajidBhatti786/notepad.git`
+`git clone https://github.com/SajidBhatti786/Notepad.git`
 
 2. Open the project in your preferred Java IDE.
 
